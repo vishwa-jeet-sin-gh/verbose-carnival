@@ -302,7 +302,7 @@ footer {
 
 /*responsive*/
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .navbar {
     flex-direction: column;
     text-align: center;
