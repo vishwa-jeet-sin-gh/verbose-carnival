@@ -19,11 +19,13 @@ header h1 {
   align-items: center;
   justify-content: space-between;
   padding: 20px 30px;
+  background: #152f6c;
 }
 
 .navbar h1 {
   font-size: 2.5rem;
   margin-left: 9%;
+  color: #ffffff;
 }
 
 .navbar p {
@@ -42,10 +44,10 @@ header h1 {
 }
 .nav-links a {
   text-decoration: none;
-  color: #111827;
+  color: #ffffff;
 }
 .nav-links a:hover {
-  color: #93979c;
+   color: rgb(78, 255, 255);
 }
 
 /* Main container */
